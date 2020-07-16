@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Latest tweet: [![my latest tweet @shivamtawari](https://twitter.com/shivamtawari)
+[Follow me on Twitter][Twitter] :speech_balloon:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Connect me on LinkedIn][LinkedIn] :necktie:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Check out my website][Website] :link:  
+
+</div>
+
+<!--
+Quick Link 
+-->
+
+[Twitter]:https://twitter.com/shivamtawari
+[LinkedIn]:https://www.linkedin.com/in/shivamtawari/
+[GitHub]:https://github.com/shivamtawari
+[Website]:https://knowalltechylblogspot.com/

@@ -28,4 +28,4 @@ Quick Link
 [Twitter]:https://twitter.com/shivamtawari
 [LinkedIn]:https://www.linkedin.com/in/shivamtawari/
 [GitHub]:https://github.com/shivamtawari
-[Website]:https://knowalltechy.blogspot.in/
+

@@ -24,8 +24,3 @@ Here are some ideas to get you started:
 <!--
 Quick Link 
 -->
-
-[Twitter]:https://twitter.com/shivamtawari
-[LinkedIn]:https://www.linkedin.com/in/shivamtawari/
-[GitHub]:https://github.com/shivamtawari
-

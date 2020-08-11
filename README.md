@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Readme Under Construction🤨
 
-<img src="https://github.com/shivamtawari/shivamtawari/blob/master/tweet.png" width="600">
-[Follow me on Twitter][Twitter] :speech_balloon:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Connect me on LinkedIn][LinkedIn] :necktie:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Check out my website][Website] :link:  
-
 </div>
 
 <!--

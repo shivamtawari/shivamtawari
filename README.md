@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 ## Readme Under Construction🤨
-[![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivamtawari&show_icons=true&theme=chartreuse-dark)(Shivam's Stats)]
+[![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivamtawari&show_icons=true&theme=chartreuse-dark)
 </div>
 
 <!--

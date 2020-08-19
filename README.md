@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Readme Under Construction🤨
 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/shivamtawari/ ) ,[Email](mailto:shivamtawari@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shivamtawari/ ), [Email](mailto:shivamtawari@gmail.com), [Twitter](https://twitter.com/shivamtawari), [My Blog](https://knowalltechy.blogspot.com/)
 
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamtawari&show_icons=true&theme=chartreuse-dark)
 </div>

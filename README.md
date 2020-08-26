@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 ## Readme Under Construction🤨
+- 🌱 I’m currently learning Machine Learning Algorithms
 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/shivamtawari/ ), [Email](mailto:shivamtawari@gmail.com), [Twitter](https://twitter.com/shivamtawari), [My Blog](https://knowalltechy.blogspot.com/)
 
